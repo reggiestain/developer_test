@@ -41,8 +41,6 @@ class AppController extends Controller {
      */
     
     public $UsersTable;
-    public $ProfilesTable;
-    public $LanguagesTable;
     public $Datetime;
     
     

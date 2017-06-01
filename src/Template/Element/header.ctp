@@ -14,7 +14,7 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#"><?php echo $this->Html->image('logo.svg',['alt' => 'logo']);?></a>
+                    <a class="brand" href="#"><?php echo $this->Html->image('logo.svg',['alt' => 'logo','style'=>'width:200px;height:50px']);?></a>
                 </div>
                 <div class="nav navbar-nav navbar-right">
                     <h5>PHP Test</h5>

@@ -7,8 +7,8 @@ The framework source code can be found here: [cakephp/cakephp](https://github.co
 ## Installation
 
 1. Clone or download this application into the "www" directory on your apache server.
-2. Person Management Application database file is located in "config/schema/propay-assessment.sql" directory of the project folder 
-3. Run this sql script on your mysql server to create the "propay-assessment" database.
+2. Developer Test Application database file is located in "config/schema/developer_test.sql" directory of the project folder 
+3. Run this sql script on your mysql server to create the "developer_test.sql" database.
 
 ## Configuration
 
@@ -17,9 +17,7 @@ configuration relevant for your application.
 
 You are now set to go.
 
-Run the  Person Management Application on your web server and login with the details below:
+Run the Developer Test Application on your web server
 
-Email: reggiestain@gmail.com
-Password: 123456
 
 
